@@ -2289,7 +2289,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
      */
 
 
-    var styles = [".container-panel[_ngcontent-%COMP%] {\n    border-color: grey;\n    height: 100%;\n    width: 100%;\n    padding-top: 25%;\n    \n}\n\n.centerIt[_ngcontent-%COMP%] {\n    width: 50%;\n    margin-left: auto;\n    margin-right: auto;\n    position: relative;\n}\n\nh1[_ngcontent-%COMP%], p[_ngcontent-%COMP%] {\n    text-align: center;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29udGFjdC1tZS9jb250YWN0LW1lLmNvbXBvbmVudC5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7SUFDSSxrQkFBa0I7SUFDbEIsWUFBWTtJQUNaLFdBQVc7SUFDWCxnQkFBZ0I7SUFDaEI7eUJBQ3FCO0FBQ3pCOztBQUVBO0lBQ0ksVUFBVTtJQUNWLGlCQUFpQjtJQUNqQixrQkFBa0I7SUFDbEIsa0JBQWtCO0FBQ3RCOztBQUVBO0lBQ0ksa0JBQWtCO0FBQ3RCIiwiZmlsZSI6InNyYy9hcHAvY29udGFjdC1tZS9jb250YWN0LW1lLmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuY29udGFpbmVyLXBhbmVsIHtcbiAgICBib3JkZXItY29sb3I6IGdyZXk7XG4gICAgaGVpZ2h0OiAxMDAlO1xuICAgIHdpZHRoOiAxMDAlO1xuICAgIHBhZGRpbmctdG9wOiAyNSU7XG4gICAgLyogbWFyZ2luLXRvcDogMjUlO1xuICAgIG1hcmdpbi1ib3R0b206IDI1JTsgKi9cbn1cblxuLmNlbnRlckl0IHtcbiAgICB3aWR0aDogNTAlO1xuICAgIG1hcmdpbi1sZWZ0OiBhdXRvO1xuICAgIG1hcmdpbi1yaWdodDogYXV0bztcbiAgICBwb3NpdGlvbjogcmVsYXRpdmU7XG59XG5cbmgxLCBwIHtcbiAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XG59Il19 */"];
+    var styles = [".container-panel[_ngcontent-%COMP%] {\n    border-color: grey;\n    height: 100%;\n    width: 100%;\n    padding-top: 25%;\n    \n}\n\n.centerIt[_ngcontent-%COMP%] {\n    width: 50%;\n    margin-left: auto;\n    margin-right: auto;\n    position: relative;\n}\n\nh1[_ngcontent-%COMP%], p[_ngcontent-%COMP%] {\n    text-align: center;\n}\n\na[_ngcontent-%COMP%] {\n    padding-left: 10%;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29udGFjdC1tZS9jb250YWN0LW1lLmNvbXBvbmVudC5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7SUFDSSxrQkFBa0I7SUFDbEIsWUFBWTtJQUNaLFdBQVc7SUFDWCxnQkFBZ0I7SUFDaEI7eUJBQ3FCO0FBQ3pCOztBQUVBO0lBQ0ksVUFBVTtJQUNWLGlCQUFpQjtJQUNqQixrQkFBa0I7SUFDbEIsa0JBQWtCO0FBQ3RCOztBQUVBO0lBQ0ksa0JBQWtCO0FBQ3RCOztBQUVBO0lBQ0ksaUJBQWlCO0FBQ3JCIiwiZmlsZSI6InNyYy9hcHAvY29udGFjdC1tZS9jb250YWN0LW1lLmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuY29udGFpbmVyLXBhbmVsIHtcbiAgICBib3JkZXItY29sb3I6IGdyZXk7XG4gICAgaGVpZ2h0OiAxMDAlO1xuICAgIHdpZHRoOiAxMDAlO1xuICAgIHBhZGRpbmctdG9wOiAyNSU7XG4gICAgLyogbWFyZ2luLXRvcDogMjUlO1xuICAgIG1hcmdpbi1ib3R0b206IDI1JTsgKi9cbn1cblxuLmNlbnRlckl0IHtcbiAgICB3aWR0aDogNTAlO1xuICAgIG1hcmdpbi1sZWZ0OiBhdXRvO1xuICAgIG1hcmdpbi1yaWdodDogYXV0bztcbiAgICBwb3NpdGlvbjogcmVsYXRpdmU7XG59XG5cbmgxLCBwIHtcbiAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XG59XG5cbmEge1xuICAgIHBhZGRpbmctbGVmdDogMTAlO1xufSJdfQ== */"];
     /***/
   },
 
@@ -2383,7 +2383,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     });
 
     function View_ContactMeComponent_0(_l) {
-      return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 15, "div", [["class", "container-panel"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](1, 0, null, null, 14, "div", [["class", "centerIt"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](2, 0, null, null, 1, "h1", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, null, ["Get in Touch"])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](4, 0, null, null, 1, "p", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, null, ["Upon graduation in June of 2023 with a Bachelor of Science in Information Systems, I am looking for a Software Engineer position. Let's chat!"])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](6, 0, null, null, 7, "div", [["class", "centerIt"], ["style", "font-size:30px; color:rgb(255, 255, 255);"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](7, 0, null, null, 6, "p", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](8, 0, null, null, 2, "a", [["href", "https://www.linkedin.com/in/qinquanlin"], ["role", "button"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](9, 0, null, null, 1, "fa-icon", [["class", "ng-fa-icon"]], [[1, "title", 0], [8, "innerHTML", 1]], null, null, _node_modules_fortawesome_angular_fontawesome_angular_fontawesome_ngfactory__WEBPACK_IMPORTED_MODULE_2__["View_FaIconComponent_0"], _node_modules_fortawesome_angular_fontawesome_angular_fontawesome_ngfactory__WEBPACK_IMPORTED_MODULE_2__["RenderType_FaIconComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](10, 573440, null, 0, _fortawesome_angular_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FaIconComponent"], [_angular_platform_browser__WEBPACK_IMPORTED_MODULE_4__["DomSanitizer"], _fortawesome_angular_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FaConfig"], _fortawesome_angular_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FaIconLibrary"], [2, _fortawesome_angular_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FaStackItemSizeDirective"]]], {
+      return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 15, "div", [["class", "container-panel"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](1, 0, null, null, 14, "div", [["class", "centerIt"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](2, 0, null, null, 1, "h1", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, null, ["Get in Touch"])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](4, 0, null, null, 1, "p", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, null, ["Upon graduation in Summer of 2023, I am looking for a full-time opportunity where I can leverage my skills and expertise to contribute effectively. Let's chat!"])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](6, 0, null, null, 7, "div", [["class", "centerIt"], ["style", "font-size:30px; color:rgb(255, 255, 255);"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](7, 0, null, null, 6, "p", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](8, 0, null, null, 2, "a", [["href", "https://www.linkedin.com/in/qinquanlin"], ["role", "button"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](9, 0, null, null, 1, "fa-icon", [["class", "ng-fa-icon"]], [[1, "title", 0], [8, "innerHTML", 1]], null, null, _node_modules_fortawesome_angular_fontawesome_angular_fontawesome_ngfactory__WEBPACK_IMPORTED_MODULE_2__["View_FaIconComponent_0"], _node_modules_fortawesome_angular_fontawesome_angular_fontawesome_ngfactory__WEBPACK_IMPORTED_MODULE_2__["RenderType_FaIconComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](10, 573440, null, 0, _fortawesome_angular_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FaIconComponent"], [_angular_platform_browser__WEBPACK_IMPORTED_MODULE_4__["DomSanitizer"], _fortawesome_angular_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FaConfig"], _fortawesome_angular_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FaIconLibrary"], [2, _fortawesome_angular_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FaStackItemSizeDirective"]]], {
         icon: [0, "icon"]
       }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](11, 0, null, null, 2, "a", [["href", "https://www.github.com/qinquanlin"], ["role", "button"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](12, 0, null, null, 1, "fa-icon", [["class", "ng-fa-icon"]], [[1, "title", 0], [8, "innerHTML", 1]], null, null, _node_modules_fortawesome_angular_fontawesome_angular_fontawesome_ngfactory__WEBPACK_IMPORTED_MODULE_2__["View_FaIconComponent_0"], _node_modules_fortawesome_angular_fontawesome_angular_fontawesome_ngfactory__WEBPACK_IMPORTED_MODULE_2__["RenderType_FaIconComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](13, 573440, null, 0, _fortawesome_angular_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FaIconComponent"], [_angular_platform_browser__WEBPACK_IMPORTED_MODULE_4__["DomSanitizer"], _fortawesome_angular_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FaConfig"], _fortawesome_angular_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FaIconLibrary"], [2, _fortawesome_angular_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FaStackItemSizeDirective"]]], {
         icon: [0, "icon"]
@@ -2618,7 +2618,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     }
 
     function View_ExperienceComponent_0(_l) {
-      return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 73, "div", [["class", "container-panel"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](1, 0, null, null, 72, "div", [["class", "row"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](2, 0, null, null, 43, "div", [["class", "col-12 col-md-6"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](3, 0, null, null, 1, "h3", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](4, null, ["", ""])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](5, 0, null, null, 3, "h3", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](6, null, ["", " "])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](7, 0, null, null, 1, "fa-icon", [["class", "ng-fa-icon"]], [[1, "title", 0], [8, "innerHTML", 1]], null, null, _node_modules_fortawesome_angular_fontawesome_angular_fontawesome_ngfactory__WEBPACK_IMPORTED_MODULE_2__["View_FaIconComponent_0"], _node_modules_fortawesome_angular_fontawesome_angular_fontawesome_ngfactory__WEBPACK_IMPORTED_MODULE_2__["RenderType_FaIconComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](8, 573440, null, 0, _fortawesome_angular_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FaIconComponent"], [_angular_platform_browser__WEBPACK_IMPORTED_MODULE_4__["DomSanitizer"], _fortawesome_angular_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FaConfig"], _fortawesome_angular_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FaIconLibrary"], [2, _fortawesome_angular_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FaStackItemSizeDirective"]]], {
+      return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 80, "div", [["class", "container-panel"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](1, 0, null, null, 79, "div", [["class", "row"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](2, 0, null, null, 43, "div", [["class", "col-12 col-md-6"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](3, 0, null, null, 1, "h3", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](4, null, ["", ""])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](5, 0, null, null, 3, "h3", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](6, null, ["", " "])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](7, 0, null, null, 1, "fa-icon", [["class", "ng-fa-icon"]], [[1, "title", 0], [8, "innerHTML", 1]], null, null, _node_modules_fortawesome_angular_fontawesome_angular_fontawesome_ngfactory__WEBPACK_IMPORTED_MODULE_2__["View_FaIconComponent_0"], _node_modules_fortawesome_angular_fontawesome_angular_fontawesome_ngfactory__WEBPACK_IMPORTED_MODULE_2__["RenderType_FaIconComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](8, 573440, null, 0, _fortawesome_angular_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FaIconComponent"], [_angular_platform_browser__WEBPACK_IMPORTED_MODULE_4__["DomSanitizer"], _fortawesome_angular_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FaConfig"], _fortawesome_angular_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FaIconLibrary"], [2, _fortawesome_angular_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FaStackItemSizeDirective"]]], {
         icon: [0, "icon"]
       }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](9, 0, null, null, 1, "h6", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](10, null, ["", ""])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](11, 0, null, null, 28, "div", [["class", "d-flex nav col"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](12, 0, null, null, 6, "li", [["class", "nav-item"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](13, 0, null, null, 5, "p", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](14, 0, null, null, 4, "a", [["class", "nav-link list-group-item-action btn "]], null, [[null, "click"]], function (_v, en, $event) {
         var ad = true;
@@ -2682,9 +2682,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
         "active": 0
       }), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, null, ["NONPROFIT"])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](40, 0, null, null, 5, "div", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](41, 0, null, null, 4, "div", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](42, 0, null, null, 1, "h6", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](43, null, ["", ""])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_ExperienceComponent_1)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](45, 278528, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_5__["NgForOf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["IterableDiffers"]], {
         ngForOf: [0, "ngForOf"]
-      }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](46, 0, null, null, 27, "div", [["class", "col-12 col-md-6"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](47, 0, null, null, 1, "h3", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](48, null, ["", ""])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](49, 0, null, null, 3, "h3", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](50, null, ["", " "])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](51, 0, null, null, 1, "fa-icon", [["class", "ng-fa-icon"]], [[1, "title", 0], [8, "innerHTML", 1]], null, null, _node_modules_fortawesome_angular_fontawesome_angular_fontawesome_ngfactory__WEBPACK_IMPORTED_MODULE_2__["View_FaIconComponent_0"], _node_modules_fortawesome_angular_fontawesome_angular_fontawesome_ngfactory__WEBPACK_IMPORTED_MODULE_2__["RenderType_FaIconComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](52, 573440, null, 0, _fortawesome_angular_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FaIconComponent"], [_angular_platform_browser__WEBPACK_IMPORTED_MODULE_4__["DomSanitizer"], _fortawesome_angular_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FaConfig"], _fortawesome_angular_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FaIconLibrary"], [2, _fortawesome_angular_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FaStackItemSizeDirective"]]], {
+      }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](46, 0, null, null, 34, "div", [["class", "col-12 col-md-6"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](47, 0, null, null, 1, "h3", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](48, null, ["", ""])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](49, 0, null, null, 3, "h3", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](50, null, ["", " "])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](51, 0, null, null, 1, "fa-icon", [["class", "ng-fa-icon"]], [[1, "title", 0], [8, "innerHTML", 1]], null, null, _node_modules_fortawesome_angular_fontawesome_angular_fontawesome_ngfactory__WEBPACK_IMPORTED_MODULE_2__["View_FaIconComponent_0"], _node_modules_fortawesome_angular_fontawesome_angular_fontawesome_ngfactory__WEBPACK_IMPORTED_MODULE_2__["RenderType_FaIconComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](52, 573440, null, 0, _fortawesome_angular_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FaIconComponent"], [_angular_platform_browser__WEBPACK_IMPORTED_MODULE_4__["DomSanitizer"], _fortawesome_angular_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FaConfig"], _fortawesome_angular_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FaIconLibrary"], [2, _fortawesome_angular_fontawesome__WEBPACK_IMPORTED_MODULE_3__["FaStackItemSizeDirective"]]], {
         icon: [0, "icon"]
-      }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](53, 0, null, null, 1, "h6", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](54, null, ["", ""])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](55, 0, null, null, 14, "div", [["class", "d-flex nav col"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](56, 0, null, null, 6, "li", [["class", "nav-item"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](57, 0, null, null, 5, "p", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](58, 0, null, null, 4, "a", [["class", "nav-link list-group-item-action btn"]], null, [[null, "click"]], function (_v, en, $event) {
+      }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](53, 0, null, null, 1, "h6", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](54, null, ["", ""])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](55, 0, null, null, 21, "div", [["class", "d-flex nav col"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](56, 0, null, null, 6, "li", [["class", "nav-item"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](57, 0, null, null, 5, "p", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](58, 0, null, null, 4, "a", [["class", "nav-link list-group-item-action btn"]], null, [[null, "click"]], function (_v, en, $event) {
         var ad = true;
         var _co = _v.component;
 
@@ -2699,7 +2699,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
         ngClass: [1, "ngClass"]
       }, null), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵpod"](61, {
         "active": 0
-      }), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, null, ["TOURS IN FLORENCE"])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](63, 0, null, null, 6, "li", [["class", "nav-item"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](64, 0, null, null, 5, "p", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](65, 0, null, null, 4, "a", [["class", "nav-link list-group-item-action btn"]], null, [[null, "click"]], function (_v, en, $event) {
+      }), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, null, ["KUBA"])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](63, 0, null, null, 6, "li", [["class", "nav-item"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](64, 0, null, null, 5, "p", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](65, 0, null, null, 4, "a", [["class", "nav-link list-group-item-action btn"]], null, [[null, "click"]], function (_v, en, $event) {
         var ad = true;
         var _co = _v.component;
 
@@ -2714,7 +2714,22 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
         ngClass: [1, "ngClass"]
       }, null), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵpod"](68, {
         "active": 0
-      }), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, null, ["THE CASOLI'S"])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](70, 0, null, null, 1, "h6", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](71, null, ["", ""])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_ExperienceComponent_2)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](73, 278528, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_5__["NgForOf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["IterableDiffers"]], {
+      }), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, null, ["TOURS"])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](70, 0, null, null, 6, "li", [["class", "nav-item"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](71, 0, null, null, 5, "p", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](72, 0, null, null, 4, "a", [["class", "nav-link list-group-item-action btn"]], null, [[null, "click"]], function (_v, en, $event) {
+        var ad = true;
+        var _co = _v.component;
+
+        if ("click" === en) {
+          var pd_0 = _co.setProgram(3) !== false;
+          ad = pd_0 && ad;
+        }
+
+        return ad;
+      }, null, null)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵprd"](512, null, _angular_common__WEBPACK_IMPORTED_MODULE_5__["ɵNgClassImpl"], _angular_common__WEBPACK_IMPORTED_MODULE_5__["ɵNgClassR2Impl"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["IterableDiffers"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["KeyValueDiffers"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["ElementRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["Renderer2"]]), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](74, 278528, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_5__["NgClass"], [_angular_common__WEBPACK_IMPORTED_MODULE_5__["ɵNgClassImpl"]], {
+        klass: [0, "klass"],
+        ngClass: [1, "ngClass"]
+      }, null), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵpod"](75, {
+        "active": 0
+      }), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, null, ["THE CASOLI'S"])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](77, 0, null, null, 1, "h6", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](78, null, ["", ""])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_ExperienceComponent_2)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](80, 278528, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_5__["NgForOf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["IterableDiffers"]], {
         ngForOf: [0, "ngForOf"]
       }, null)], function (_ck, _v) {
         var _co = _v.component;
@@ -2766,9 +2781,15 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
         _ck(_v, 67, 0, currVal_24, currVal_25);
 
-        var currVal_27 = _co.programInfo.details;
+        var currVal_26 = "nav-link list-group-item-action btn";
 
-        _ck(_v, 73, 0, currVal_27);
+        var currVal_27 = _ck(_v, 75, 0, _co.programInfo.id === 3);
+
+        _ck(_v, 74, 0, currVal_26, currVal_27);
+
+        var currVal_29 = _co.programInfo.details;
+
+        _ck(_v, 80, 0, currVal_29);
       }, function (_ck, _v) {
         var _co = _v.component;
         var currVal_0 = _co.jobInfo.company;
@@ -2811,9 +2832,9 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
         _ck(_v, 54, 0, currVal_21);
 
-        var currVal_26 = _co.programInfo.role;
+        var currVal_28 = _co.programInfo.role;
 
-        _ck(_v, 71, 0, currVal_26);
+        _ck(_v, 78, 0, currVal_28);
       });
     }
 
@@ -2868,13 +2889,14 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
         this.faGlobeAmericas = _fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_1__["faGlobeAmericas"];
         this.faGlobeEurope = _fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_1__["faGlobeEurope"];
+        this.faGlobeAsia = _fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_1__["faGlobeAsia"];
         this.experiences = [{
           id: 2,
           role: "Technology Summer Analyst",
           company: "MUFG",
           time: "June - August 2020",
           location: "Charlotte, NC",
-          details: ["Developed and maintained three ETL mappings in DB2 data mart environments using Informatica PowerCenter and Unix.", "Wrote complex SQL queries and automated monthly data delivery to the reporting team using Toad Data Point and Tidal.", "Enhanced Credit Risk Technology's SharePoint by creating a wiki page and dynamic content such as calandars for database reservations, project timeline, and member status."],
+          details: ["Designed and developed 3 ETL mappings and workflows in DB2 data mart environments using Informatica PowerCenter.", "Wrote complex SQL queries and created automation tasks on Tidal to provide monthly downstream extracts.", "Performed end-to-end development and led a deployment session within the Credit Risk Data Integration team."],
           url: ""
         }, {
           id: 1,
@@ -2882,47 +2904,54 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
           company: "PwC",
           time: "June - August 2021",
           location: "San Jose, CA",
-          details: ["Incoming"],
+          details: ["Built automated Alteryx workflows, PowerBI and Tableau dashboard reports to showcase insightful information.", "Delivered dynamic solutions that saves client engagement team 120 hours per year and can be leveraged to other clients.", "Gave a product demo presentation and worked with clients to deliver the final product."],
           url: ""
         }, // {id: 2, role: "Front End Team Lead", company: "Jazz Loft", time: "February 2020 - May 2020", location: "Stony Brook, NY", details: ["Led a front-end team of 2 responsible for designing user-interface and user-experience with the client to bring to live a Jazz vibe.", "Established weekly communication with my team members, client, database and digitation teams.", "Delegated tasks based on skillsets and set up collaborative coding sessions to address any blockage."], url: ""},
         {
           id: 3,
-          role: "Software Developer Intern",
+          role: "Programming Analyst",
           company: "TLL Multimedia Lab",
-          time: "September 2019 - May 2020",
+          time: "September 2019 - March 2020",
           location: "Stony Brook, NY",
-          details: ["Debugged previous projects and collaborated with the Health Science Department to design and build web apps to assist student learning.", "Led and built Dr. Dialogue, a dynamic conversation to simulate diagnostics at a doctor's office by using JavaScript, jQuery, PHP, CSS, and HTML.", "Built Game of Reflection, an online multiplayer game of capturing the target through strategic “reflections” by teleporting oneself or the opponent using P5.js, JavaScript, Express, and WebSocket to establish server and client-side event communication.", "Led a front-end team of 2 to work with the Jazz Loft and built an online music archive, creating features such as table, pagination, filter, user authentication, privilege control and a simulated data store using Angular, Node.js, and Angular In-Memory Database Web API."],
+          details: ["Developed an interactive conversation app to help medical students diagnose illnesses based on patient symptoms (jQuery, JavaScript, HTML CSS). Implemented authentication to save and load each student’s dialogues (PHP, CKEditor).", "Led a front-end team of 2 to preserve deteriorating music scores at the Stony Brook Jazz Loft. Built an online music archive with privilege controls for staff and guests (Angular, Node.js). Established a temporary simulated data store (Angular In-Memory Database Web API).", "Built Game of Reflection, an online multiplayer game of capturing the target through strategic “reflections” by teleporting oneself or the opponent using P5.js, JavaScript, Express, and WebSocket to establish server and client-side event communication."],
           url: ""
         }, {
           id: 4,
-          role: "SYEP Program Facilitator",
+          role: "Program Facilitator",
           company: "Chinatown Manpower Project",
           time: "June - August 2019",
           location: "New York, NY",
-          details: ["Served as liaison for non-profit organizations by conducting weekly meetings and resolving conflicts between employers and workers.", "Acted as initial point of contact for over 600 SYEP participants and assessed qualifications for job placement at one of CMP's 120 work-sites with less than 3 rejections.", "Conducted interviews and orientations, and successfully advocated for 2 participants' future employment at their work-sites."],
+          details: ["Assessed qualifications and matched 600 workers from the DYCD Summer Youth Employment Program across 120 worksites.", "Served as liaison for employers and workers by conducting weekly meetings and resolving conflicts."],
           url: ""
         }];
         this.abroad = [{
           id: 1,
+          role: "Cultural Exchange Buddy",
+          company: "Korea University",
+          time: "Feburary - June 2023",
+          location: "Seoul, South Korea",
+          details: ["Gathered weekly for cultural exchanges with 5 local students.", "Held a booth during the university festival to share homemade food of the states."]
+        }, {
+          id: 2,
           role: "Marketing Assistant",
           company: "Tours in Florence",
           time: "January - May 2019",
           location: "Florence, Italy",
           details: ["Communicated with tourists, travelers, and locals to recommend tour products that aligned with company values.", "Managed weekly team meetings and faclitated progress report and discussions."]
         }, {
-          id: 2,
+          id: 3,
           role: "Bellissimo Figlio Italiano",
           company: "The Casoli's",
           time: "January - May 2019",
           location: "Florence, Italy",
-          details: ["Home stayed at the Casoli's, a local Italian host family!", "(They are safe and well. My Italian brother still speaks 6 languages :)))"]
+          details: ["Home stayed at the Casoli's, a local Italian host family!"]
         }];
       }
 
       _createClass(ExperienceComponent, [{
         key: "ngOnInit",
         value: function ngOnInit() {
-          this.setJob(2);
+          this.setJob(1);
           this.setProgram(1);
         }
       }, {
